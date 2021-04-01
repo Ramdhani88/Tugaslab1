@@ -4,11 +4,11 @@ Macam-Macam Tag HTML Beserta Fungsinya – Bagi yang pemula untuk belajar HTML i
 
 contoh tag dasar html
 
-### <html> : tag untuk membuat dokumen HTML.
-### <head> : kepala dari dokumen HTML.
-### <title> : tag yang berguna untuk membuat judul dari sebuah halaman.
-### <body> : tag yang digunakan untuk menampilkan isi dokumen HTML.
-### <p> : tag untuk membuat paragraph.
+### html : tag untuk membuat dokumen HTML.
+### head : kepala dari dokumen HTML.
+### title : tag yang berguna untuk membuat judul dari sebuah halaman.
+### body : tag yang digunakan untuk menampilkan isi dokumen HTML.
+### p : tag untuk membuat paragraph.
 
 ![Gambar 1](ss/123.png)
 
