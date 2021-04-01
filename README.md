@@ -14,4 +14,4 @@ contoh tag dasar html
 <hr> : tag yang berguna untuk membuat suatu garis horizontal.
 <width> : untuk mengatur suatu Panjang garis pada satuan pixel.
 
-![Gambar 1](ss/123.PNG)
+![Gambar 1](ss/123.png)
