@@ -9,9 +9,9 @@ contoh tag dasar html
 <title> : tag yang berguna untuk membuat judul dari sebuah halaman.
 <body> : tag yang digunakan untuk menampilkan isi dokumen HTML.
 <p> : tag untuk membuat paragraph.
-<H2> : header 2, sub judul sebuah web.
-<center> : tag yang berfungsi untuk menampilkan teks dengan posisi yang horizontal di tengah.
-<hr> : tag yang berguna untuk membuat suatu garis horizontal.
-<width> : untuk mengatur suatu Panjang garis pada satuan pixel.
 
 ![Gambar 1](ss/123.png)
+
+### tamilan akhir dari gambar di atas
+
+![Gambar 2](ss/1122.png)
